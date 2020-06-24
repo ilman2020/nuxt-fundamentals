@@ -12,7 +12,7 @@ export default {
       '/posts/whereIsIt',
       '/posts/how'
     ]
-  }
+  },
   /*
   ** Nuxt target
   ** See https://nuxtjs.org/api/configuration-target
