@@ -5,6 +5,14 @@ export default {
   ** See https://nuxtjs.org/api/configuration-mode
   */
   mode: 'universal',
+
+  generate: {
+    routes: [
+      '/posts/balut',
+      '/posts/whereIsIt',
+      '/posts/how'
+    ]
+  }
   /*
   ** Nuxt target
   ** See https://nuxtjs.org/api/configuration-target
